@@ -24,7 +24,7 @@ Welcome to my algorithmic problem-solving portfolio repository for the 3rd Semes
 
 ### HackerRank Badge (3-Star Problem Solving / Language)
 
-![3-Star Badge](screenshots/badges.png)
+![3-Star Badge](screenshots/image.png)
 
 ### Sample Accepted Submissions
 
