@@ -24,13 +24,11 @@ Welcome to my algorithmic problem-solving portfolio repository for the 3rd Semes
 
 ### HackerRank Badge (3-Star Problem Solving / Language)
 
-![3-Star Badge](screenshots/image.png)
+![3-Star Badge](screenshots/Badges.png)
 
 ### Sample Accepted Submissions
 
-![Accepted Submissions](screenshots/submissions..jpg)
-
----
+## ![Accepted Submissions](screenshots/submissions.jpg)
 
 ## 💻 Folder Structure
 
