@@ -28,7 +28,7 @@ Welcome to my algorithmic problem-solving portfolio repository for the 3rd Semes
 
 ### Sample Accepted Submissions
 
-## ![Accepted Submissions](screenshots/submissions.jpg)
+## ![Accepted Submissions](screenshots/submissions..jpg)
 
 ## 💻 Folder Structure
 
